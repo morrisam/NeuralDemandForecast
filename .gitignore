@@ -1,4 +1,18 @@
 # Byte-compiled / optimized / DLL files
+.idea/
+retail_data/
+retail_data_generator/
+test_retail_*
+benchmark_retail_1.py
+docs/
+practice/
+results/
+modules/general_lib.py
+modules/sql_lib.py
+
+
+
+
 __pycache__/
 *.py[cod]
 *$py.class
